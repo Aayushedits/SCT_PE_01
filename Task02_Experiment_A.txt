@@ -1,0 +1,97 @@
+TASK 2: PROMPTING FOR CREATIVITY
+Experiment A — Professional Tone
+Internship: SkillCraft Technology
+
+PROMPT USED
+Generate 3 startup ideas that solve real problems faced by college students in India. Use a professional and business-oriented tone. For each idea, explain the problem statement, proposed solution, target market, competitive advantage, and revenue model. Prioritize feasibility and market relevance for a student founder with a limited budget.
+
+============================================================
+STARTUP IDEA 1: CAMPUSLOOP — CAMPUS MARKETPLACE
+============================================================
+
+Problem Statement:
+College students frequently face high costs for textbooks, calculators, lab equipment, and other academic essentials. At the same time, senior students often have unused items that could benefit others.
+
+Proposed Solution:
+Develop a campus-focused online marketplace that enables students to buy, sell, rent, and exchange used academic supplies and student essentials.
+
+Target Market:
+Undergraduate students, particularly first-year students, senior students, and students living in hostels or rented accommodation.
+
+Competitive Advantage:
+Unlike general online marketplaces, CampusLoop focuses on college communities, enabling localized transactions, easier product discovery, and potential campus-based verification.
+
+Revenue Model:
+- Commission on completed transactions.
+- Paid featured listings.
+- Promotional partnerships with local stationery and printing businesses.
+
+Feasibility:
+A student founder can validate the concept using a simple website or online listing form before investing in a full application.
+
+============================================================
+STARTUP IDEA 2: SKILLSWAP — PEER-TO-PEER SKILL EXCHANGE
+============================================================
+
+Problem Statement:
+Many college students want to develop practical skills such as programming, graphic design, video editing, and communication. However, paid courses and professional mentorship can be expensive.
+
+Proposed Solution:
+Create a platform where students exchange skills using a credit-based system. For example, a student could teach basic web development in exchange for a video-editing lesson.
+
+Target Market:
+College students seeking affordable skill development, peer learning, and opportunities to build practical experience.
+
+Competitive Advantage:
+SkillSwap encourages reciprocal learning and makes use of skills already available within college communities, reducing dependence on paid courses.
+
+Revenue Model:
+- Premium memberships.
+- Paid workshops and expert-led sessions.
+- Optional paid mentoring services.
+
+Feasibility:
+The initial version can operate through a student community and a basic website, with automated matching introduced as participation grows.
+
+============================================================
+STARTUP IDEA 3: MESSMATE — STUDENT MEAL PLANNING
+============================================================
+
+Problem Statement:
+Students living away from home often struggle to manage food expenses, cooking time, grocery shopping, and balanced meals within a limited budget.
+
+Proposed Solution:
+Build a meal-planning platform that recommends affordable weekly meals based on a student's budget, food preferences, available ingredients, and kitchen equipment.
+
+Target Market:
+College students living in rented flats, paying guest accommodation, and hostels with limited food options.
+
+Competitive Advantage:
+MessMate focuses specifically on student budgets and practical cooking constraints rather than general-purpose meal planning.
+
+Revenue Model:
+- Premium personalized meal plans.
+- Grocery affiliate commissions.
+- Partnerships with local grocery stores.
+
+Feasibility:
+A basic version can generate weekly meal plans and shopping lists without requiring food delivery infrastructure or a physical kitchen.
+
+============================================================
+EXPERIMENT A — INITIAL OBSERVATIONS
+============================================================
+
+Tone:
+Formal and business-oriented.
+
+Creativity:
+The ideas are practical, with moderate originality. This is an initial qualitative observation.
+
+Detail:
+The prompt produces a clear structure across five requested dimensions: problem statement, proposed solution, target market, competitive advantage, and revenue model.
+
+Practicality:
+Each concept can be tested with a low-cost prototype before a full product is built.
+
+Note:
+These are initial qualitative observations. Final ratings should be assigned after comparing this output with the base prompt and Experiments B and C.

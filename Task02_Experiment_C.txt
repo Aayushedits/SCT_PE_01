@@ -1,0 +1,138 @@
+TASK 2: PROMPTING FOR CREATIVITY
+Experiment C — Detailed and Example-Driven Prompt
+Internship: SkillCraft Technology
+
+PROMPT USED
+Generate 3 startup ideas that solve real problems faced by college students in India. For each idea, explain the problem, proposed solution, target audience, unique selling point, a realistic example of how a student would use it, estimated initial costs with assumptions, and a potential revenue model. Provide specific and actionable details while keeping each idea feasible for a student founder with a limited budget.
+
+Note: Cost figures below are illustrative planning estimates, not verified quotes. Actual costs depend on tools, location, and implementation choices.
+
+============================================================
+STARTUP IDEA 1: CAMPUSLOOP — STUDENT MARKETPLACE
+============================================================
+
+Problem:
+College students spend money on textbooks, calculators, lab equipment, and other supplies that they may use for only one semester. Senior students often have unused items they could sell or rent.
+
+Proposed Solution:
+A campus-focused marketplace where students can buy, sell, rent, and exchange used academic supplies and student essentials.
+
+Target Audience:
+Undergraduate students, especially first-year students, seniors, and students living in hostels or rented flats.
+
+Unique Selling Point:
+Campus-specific listings make it easier to find relevant items nearby. College email verification and campus pickup options could help build trust.
+
+Realistic Example:
+A second-year engineering student lists a used textbook for ₹250. A first-year student finds it, contacts the seller, checks the book, and completes the exchange on campus.
+
+Estimated Initial Costs:
+- Basic website or no-code setup: ₹0–₹2,000
+- Domain name: ₹800–₹1,200 per year
+- Initial promotion: ₹500–₹1,000
+- Estimated total: ₹1,300–₹4,200
+
+Assumptions:
+The founder manages the project independently, uses free tools where possible, and starts with one college. These are illustrative planning estimates, not verified quotes.
+
+Revenue Model:
+- Small transaction fees.
+- Paid featured listings.
+- Partnerships with local stationery and printing shops.
+
+Low-Budget Launch:
+Test demand with a Google Form and a college WhatsApp group before building a full website.
+
+============================================================
+STARTUP IDEA 2: SKILLSPARK — THE 30-MINUTE SKILL SWAP
+============================================================
+
+Problem:
+Students want to learn practical skills such as coding, video editing, design, or public speaking, but may not have enough money or time for long courses. They may also overlook skills they can teach to others.
+
+Proposed Solution:
+A peer-learning exchange where students offer focused 30-minute sessions and earn credits to learn from other students.
+
+Target Audience:
+College students who want to build practical skills, share their knowledge, and expand their peer networks.
+
+Unique Selling Point:
+Short sessions fit between classes, and a credit-based exchange allows students to learn without always paying money.
+
+Realistic Example:
+A student teaches a classmate a basic video-editing workflow for 30 minutes. They earn a credit and later use it to learn spreadsheet skills from another student.
+
+Estimated Initial Costs:
+- Google Forms and spreadsheet: ₹0
+- Basic landing page or no-code website: ₹0–₹2,000
+- Posters or initial promotion: ₹300–₹800
+- Estimated total: ₹300–₹2,800
+
+Assumptions:
+The founder coordinates matching manually and recruits initial participants from one college.
+
+Revenue Model:
+- Optional premium membership.
+- Paid group workshops.
+- Partnerships with student clubs or training providers.
+
+Low-Budget Launch:
+Recruit 10–20 students, collect the skills they can teach and want to learn, and manually arrange trial sessions.
+
+============================================================
+STARTUP IDEA 3: LEFTOVER LAB — SMART SHARED GROCERY PLANNING
+============================================================
+
+Problem:
+Students living in shared flats may buy duplicate groceries, forget ingredients, or waste food because roommates plan meals and shopping separately.
+
+Proposed Solution:
+A shared grocery planner where roommates record available ingredients, set a weekly budget, coordinate meal plans, and identify ingredients they should use first.
+
+Target Audience:
+College students living in rented flats or shared accommodation who cook some of their own meals.
+
+Unique Selling Point:
+It combines shared shopping lists with a “use what we already have” approach designed for student budgets and basic kitchen facilities.
+
+Realistic Example:
+Three roommates list rice, onions, eggs, and vegetables they already have. The planner suggests meals using those ingredients and creates a shared shopping list for only the missing items.
+
+Estimated Initial Costs:
+- Shared spreadsheet or form-based prototype: ₹0
+- Basic no-code website: ₹0–₹2,000
+- Initial promotion: ₹300–₹800
+- Estimated total: ₹300–₹2,800
+
+Assumptions:
+The first version uses free tools and does not include grocery delivery, paid APIs, or a custom mobile application.
+
+Revenue Model:
+- Premium features for shared households.
+- Grocery affiliate commissions where available.
+- Promotional partnerships with local grocery shops.
+
+Low-Budget Launch:
+Test with three to five shared flats using a shared spreadsheet before building a dedicated product.
+
+============================================================
+EXPERIMENT C — INITIAL OBSERVATIONS
+============================================================
+
+Tone:
+Explanatory and practical, with a focus on implementation.
+
+Creativity:
+The ideas combine familiar student needs with concrete mechanisms: campus-based reuse, time-limited skill exchanges, and shared grocery planning. Compare the actual outputs to decide whether this prompt generated more creative concepts than the other prompts.
+
+Detail:
+This prompt requests examples, estimated initial costs, assumptions, and revenue models, resulting in more implementation-focused information.
+
+Practicality:
+All three ideas can be tested using free or low-cost tools before developing a full product.
+
+Limitations:
+The cost estimates are illustrative, not verified market prices. The ideas have not been validated through user research or market testing.
+
+Note:
+These are initial qualitative observations. Final ratings should be assigned after comparing the base prompt and Experiments A, B, and C.

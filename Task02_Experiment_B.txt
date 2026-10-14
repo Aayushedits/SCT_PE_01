@@ -1,0 +1,88 @@
+TASK 2: PROMPTING FOR CREATIVITY
+Experiment B — Creative Tone
+Internship: SkillCraft Technology
+
+PROMPT USED
+Act as a highly creative startup innovator. Generate 3 original and unconventional startup ideas that solve real problems faced by college students in India. Give each idea a memorable name, a surprising solution, a unique selling point, and a practical revenue model. Avoid generic ideas while keeping them achievable for a student founder with a limited budget.
+
+============================================================
+STARTUP IDEA 1: CAMPUSLOOP — THE CIRCULAR CAMPUS ECONOMY
+============================================================
+
+Problem:
+Students spend money on textbooks, calculators, lab equipment, and other essentials they may need for only one semester. Meanwhile, senior students often leave these items unused.
+
+Creative Solution:
+Create a campus-wide reuse network. Students can list items for sale, rent them for a semester, or exchange them for something they need.
+
+Unique Selling Point:
+A semester-based sharing economy where students discover useful items from their own college community, potentially with college email verification.
+
+Revenue Model:
+- Small fees on successful transactions.
+- Paid promotional listings.
+- Partnerships with local stationery and printing shops.
+
+Low-Budget Launch:
+Begin with a simple listing website or a form-based system for one college.
+
+============================================================
+STARTUP IDEA 2: SKILLSPARK — THE 30-MINUTE SKILL SWAP
+============================================================
+
+Problem:
+Students may want to learn practical skills but lack the time or money for long courses. They may also underestimate the useful skills they already possess.
+
+Creative Solution:
+A peer-learning exchange where students offer short, focused 30-minute sessions. For example, one student teaches a basic video-editing technique and earns credits to learn Excel, public speaking, or coding from another student.
+
+Unique Selling Point:
+Small, low-pressure learning sessions that fit between classes and reward students for sharing what they already know.
+
+Revenue Model:
+- Optional premium membership for advanced matching and scheduling.
+- Paid group workshops.
+- Partnerships with student clubs or training providers.
+
+Low-Budget Launch:
+Match students through a form and a campus group before building scheduling features.
+
+============================================================
+STARTUP IDEA 3: LEFTOVER LAB — SMART SHARED GROCERY PLANNING
+============================================================
+
+Problem:
+Students living in shared flats often buy duplicate groceries, forget ingredients, or let food go unused because flatmates plan meals separately.
+
+Creative Solution:
+A shared-flat grocery planner where roommates enter what they already have, set a weekly budget, and coordinate a simple meal plan and shopping list. The service highlights ingredients that should be used first.
+
+Unique Selling Point:
+It combines shared grocery coordination with a practical “use what we already have” approach designed for students with limited budgets and basic kitchen equipment.
+
+Revenue Model:
+- Premium features for shared households.
+- Affiliate commissions from grocery services, where available.
+- Sponsored placements from local grocery shops.
+
+Low-Budget Launch:
+Test the idea with a shared spreadsheet or simple website for a few student flats before developing an app.
+
+============================================================
+EXPERIMENT B — INITIAL OBSERVATIONS
+============================================================
+
+Tone:
+Imaginative and idea-oriented, with memorable names and more distinctive framing.
+
+Creativity:
+The ideas use specific mechanisms, such as semester-based reuse, short skill exchanges, and shared grocery coordination. Whether they are more creative than the base prompt should be judged by comparing the actual outputs.
+
+Detail:
+Each idea includes a problem, a proposed solution, a unique selling point, a revenue model, and a low-budget launch approach.
+
+Practicality:
+The concepts can be tested with forms, spreadsheets, campus groups, or simple websites before investing in a full product.
+
+Note:
+These are initial qualitative observations. Final ratings should be assigned after comparing the base prompt and Experiments A, B, and C.
