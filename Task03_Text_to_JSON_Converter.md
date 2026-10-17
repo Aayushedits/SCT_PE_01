@@ -119,3 +119,7 @@ The Coding Competition is happening at NIAT Greater Noida on 20 January 2027. Co
 ## 7. Reflection
 
 Testing the prompt with three event announcements demonstrated how structured instructions can convert unstructured text into consistent JSON. The prompt handled complete and incomplete inputs, standardized date and time formats, and represented missing information using null instead of inventing values.
+
+## 8. Conclusion
+
+The Text-to-JSON Converter demonstrates how a clear and structured prompt can transform unstructured college event announcements into consistent JSON output. Testing with three examples showed that the prompt can extract available details, standardize date and time formats, and handle missing information using `null`. This task improved my understanding of prompt design, output consistency, and validation through multiple test cases.
